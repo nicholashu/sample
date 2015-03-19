@@ -1,4 +1,5 @@
 class StaticPagesController < ApplicationController
+@base_title = "Ruby on Rails Tutorial Sample App"
   def home
   end
 
